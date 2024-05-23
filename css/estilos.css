@@ -1,0 +1,76 @@
+body {
+    min-height: 75rem;
+    padding-top: 4.5rem;
+    /*Espaço entre a navbar do topo e a seção abaixo*/
+    padding-bottom: 4.5rem;
+    /*Espaço entre a navbar do rodapé e a seção acima*/
+
+}
+
+
+.bi {
+    fill: currentColor;
+}
+
+img {
+
+    max-width: 100%;
+    height: auto;
+}
+
+.tamanhoVideo {
+    max-width: 1280px;
+}
+
+ul li {
+    display: inline;
+}
+
+.fundo_formulario {
+    background-color: whitesmoke;
+}
+
+.cartao_precario {
+    height: 300px;
+}
+
+.carousel-inner,
+iframe {
+    border-radius: 10px;
+}
+
+.img-size-carousel {
+    max-height: 1080px;
+    max-width: 1920px;
+}
+
+.img-autor {
+    border-radius: 10px;
+}
+
+.img-size-card {
+    max-height: 250px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+
+.identificacao_veiculo {
+    color: white;
+}
+
+.alinhamento_detalhes_viatura {
+    text-align: right;
+}
+
+.texto_autor {
+    text-align: justify;
+}
+
+.cor_veiculo_eletrico {
+    background-color: green;
+
+}
